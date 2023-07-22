@@ -4,7 +4,7 @@ import { getThemeConfig, defineConfig } from '@sugarat/theme/node'
 // 详见文档: https://theme.sugarat.top/
 const blogTheme = getThemeConfig({
   // 文章默认作者
-  author: '粥里有勺糖',
+  author: 'Cloris',
   // 友链
   friend: [
     {
@@ -30,11 +30,11 @@ const blogTheme = getThemeConfig({
   popover: {
     title: '公告',
     body: [
-      {
-        type: 'text',
-        content: 'QQ交流群：681489336 🎉🎉'
-      },
-      { type: 'text', content: '👇公众号👇---👇 微信 👇' },
+      // {
+      //   type: 'text',
+      //   content: 'QQ交流群：681489336 🎉🎉'
+      // },
+      { type: 'text', content: '👇公众号👇---👇 Rust学习日记 👇' },
       {
         type: 'image',
         src: 'https://img.cdn.sugarat.top/mdImg/MTYxNTAxODc2NTIxMA==615018765210'
@@ -46,7 +46,7 @@ const blogTheme = getThemeConfig({
       {
         type: 'button',
         content: '博客',
-        link: 'https://sugarat.top'
+        link: 'https://1595901624.github.io/'
       }
     ],
     duration: 0
@@ -58,7 +58,7 @@ const blogTheme = getThemeConfig({
 export default defineConfig({
   extends: blogTheme,
   lang: 'zh-cn',
-  title: '@sugarat/theme',
+  title: '@Cloris',
   description: '粥里有勺糖的博客主题，基于 vitepress 实现',
   vite: {
     optimizeDeps: {
@@ -70,9 +70,9 @@ export default defineConfig({
   themeConfig: {
     lastUpdatedText: '上次更新于',
     footer: {
-      message: '自定义底部内容',
+      message: '版权所有 © 2023 Cloris',
       copyright:
-        'MIT Licensed | <a target="_blank" href="https://theme.sugarat.top/"> @sugarat/theme </a>'
+        'MIT Licensed | Power by <a target="_blank" href="https://theme.sugarat.top/"> @sugarat/theme </a>'
     },
     logo: '/logo.png',
     // editLink: {
@@ -82,7 +82,7 @@ export default defineConfig({
     // },
     nav: [
       { text: '首页', link: '/' },
-      { text: '关于作者', link: 'https://sugarat.top/aboutme.html' }
+      { text: '关于作者', link: 'https://1595901624.github.io/ aboutme.html' }
     ],
     socialLinks: [
       {
