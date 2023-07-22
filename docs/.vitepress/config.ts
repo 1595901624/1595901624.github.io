@@ -58,8 +58,8 @@ const blogTheme = getThemeConfig({
 export default defineConfig({
   extends: blogTheme,
   lang: 'zh-cn',
-  title: '@Cloris',
-  description: '粥里有勺糖的博客主题，基于 vitepress 实现',
+  title: 'Cloris的博客',
+  description: '专注于 Rust、Web、前端、后端、算法、数据结构、操作系统、计算机网络等技术分享',
   vite: {
     optimizeDeps: {
       include: ['element-plus'],
@@ -82,7 +82,7 @@ export default defineConfig({
     // },
     nav: [
       { text: '首页', link: '/' },
-      { text: '关于作者', link: 'https://1595901624.github.io/ aboutme.html' }
+      { text: '关于作者', link: 'https://1595901624.github.io/about.html' }
     ],
     socialLinks: [
       {
