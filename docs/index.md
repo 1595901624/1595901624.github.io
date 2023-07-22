@@ -106,6 +106,6 @@ blog:
   - 要成功不需要什么特别的才能，只要把你能做的小事做得好就行了。——维龙
   - 节约时间，也就是使一个人的有限的生命，更加有效，而也就等于延长了人的寿命。——鲁 迅
  # 设置 inspiringTimeout 可以实现自动切换
- inspiringTimeout: 6000
+ inspiringTimeout: 8000
  pageSize: 6
 ---
