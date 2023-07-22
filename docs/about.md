@@ -3,7 +3,7 @@ sticky: 1
 ---
 # 关于作者
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](https://github.com/1595901624/1595901624/blob/main/profile-3d-contrib/profile-season-animate.svg)
 
 ## 专注
 专注于 Rust、Web、前端、后端、算法、数据结构、操作系统、计算机网络等技术分享
