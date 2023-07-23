@@ -4,7 +4,9 @@ title: 🔧 RUST基础 01 Hello World
 readingTime: false
 tag:
  - Rust 基础教程
-recommend: 3
+# recommend: 3
+top: 1
+sticky: 2
 ---
 
 # RUST学习日记 01 Hello World

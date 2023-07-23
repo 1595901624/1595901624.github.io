@@ -3,7 +3,7 @@ layout: home
 # 首页部分元素定制
 blog:
  name: '@Cloris的博客'
- motto: 
+ motto: ''
  inspiring:
   - 辛勤的蜜蜂永没有时间悲哀。——布莱克
   - 我这个人走得很慢，但是我从不后退。——亚伯拉罕·林肯
