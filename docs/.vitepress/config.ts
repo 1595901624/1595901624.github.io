@@ -37,7 +37,7 @@ const blogTheme = getThemeConfig({
       { type: 'text', content: '👇公众号👇---👇 Rust学习日记 👇' },
       {
         type: 'image',
-        src: 'https://raw.githubusercontent.com/1595901624/1595901624.github.io/master/image/other/qrcode_for_gh_a2b48c18d48d_860.jpg'
+        src: 'https://raw.githubusercontent.com/1595901624/1595901624.github.io/master/image/other/qrcode_for_gh_a2b48c18d48d_860.webp'
       },
       {
         type: 'text',
