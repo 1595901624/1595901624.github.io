@@ -6,7 +6,7 @@ const fs = require('fs')
  */
 function search_image() {
     // 读取md文档
-    fs.readFile('README.md', 'utf-8', function (err, data) {
+    fs.readFile('RUST  学习日记 第1课 ——Hello World.md', 'utf-8', function (err, data) {
         if (err) {
             console.log(err)
         } else {
@@ -18,8 +18,13 @@ function search_image() {
             for (let i = 0; i < result.length; i++) {
                 // 获取图片地址
                 const url = result[i].replace(reg, '$1')
+                console.log(url)
+                
+                // 替换图片地址
+                
+
                 // 下载图片
-                download_image(url)
+                // download_image(url)
             }
         }
     })
@@ -43,3 +48,6 @@ function download_image(url) {
         })
     })
 }
+
+
+search_image()
