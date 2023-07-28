@@ -54,13 +54,13 @@ SHA1:D6029A90916AA49F3F8F260C277DAF838DDA0612
 
 3.命令行输入`rustc`回车，出现下面的提示，即表明安装完成Rust了。
 
-![rustc执行命令](https://gitee.com/haoyu3/photo_gallery/raw/master/rust/001/rustc%E5%91%BD%E4%BB%A4.png)
+![rustc执行命令](../images/rustc%E5%91%BD%E4%BB%A4.png)
 
 ## 0x03 Hello World
 
 是不是等这一刻很久了，开始手撸Hello World，毕竟这是学习每一门语言的第一步~
 
-![hello world](https://gitee.com/haoyu3/photo_gallery/raw/master/rust/001/create_helloworld.png)
+![hello world](../images/create_helloworld.png)
 
 随便创建一个文件夹，创建一个文件`main.rs`，编写上图的代码。
 
@@ -109,4 +109,4 @@ fn main() {
 ## 0x06 本节源码
 
 [Gitee](https://gitee.com/haoyu3/study-rust/tree/master/001)
-[Github](https://github.com/1595901624/StudyRust/tree/master/001)
+[Github](https://github.com/1595901624/StudyRust/tree/master/001)/github.com/1595901624/StudyRust/tree/master/001)
