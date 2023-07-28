@@ -74,11 +74,11 @@ fn main() {
 
 注：如果这里你编译报了下面图片所示的错误，那么你肯定没有装Visual Studio~
 
-![编译错误](https://gitee.com/haoyu3/photo_gallery/raw/master/rust/001/build_error.png)
+![编译错误](../images/build_error.png)
 
 编译成功后，会在目录下多出两个文件。
 
-![编译成功](https://gitee.com/haoyu3/photo_gallery/raw/master/rust/001/build_success.png)
+![编译成功](../images/build_success.png)
 
 快点击 `main.exe`运行看下...发生了什么，一闪而过。原因是程序执行太快，瞬间结束了，咱们加入下面的代码，让程序暂停~
 
@@ -95,7 +95,7 @@ fn main() {
 
 再重新编译，运行！成功了！！这是咱们写的第一个Rust程序。
 
-![运行](https://gitee.com/haoyu3/photo_gallery/raw/master/rust/001/run.png)
+![运行](../images/run.png)
 
 ## 0x04 小结
 
