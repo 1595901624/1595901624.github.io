@@ -91,4 +91,5 @@ async function download_image(url) {
 }
 
 
-search_image()
+// search_image()
+//download_image('https://gitee.com/haoyu3/photo_gallery/raw/master/rust/001/run.png')
